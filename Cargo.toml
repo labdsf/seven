@@ -1,0 +1,8 @@
+[package]
+name = "seven"
+version = "0.1.0"
+authors = ["Alexander Krotov <ilabdsf@gmail.com>"]
+
+[dependencies]
+byteorder = { version = "1" }
+crc = { version = "1.4.0" }
